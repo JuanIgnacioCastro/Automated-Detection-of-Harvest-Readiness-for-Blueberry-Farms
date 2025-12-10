@@ -1,8 +1,6 @@
 # Automated-Detection-of-Harvest-Readiness-for-Blueberry-Farms
 FIU Data Science &amp; Artificial Intelligence capstone project: automated computer-vision pipeline (YOLOv8 + Python) to detect ripe vs. green blueberries, estimate harvest-readiness at plant/acre level, and support data-driven harvest timing decisions for commercial blueberry farms.
 
-# Automated Detection of Harvest Readiness for Blueberry Farms
-
 Juan Ignacio Castro  
 Data Science and Artificial Intelligence – Business Analytics Track  
 Florida International University (FIU) – IDC 6940 Capstone in Data Science  
@@ -157,6 +155,19 @@ Most notebooks were originally executed in **Google Colab**, so they should run 
 ---
 
 ## 4. How to Use This Repository
+
+# Computer vision (YOLOv8)
+git checkout COMPUTER-VISION
+
+# Synthetic farm generation
+git checkout SYNTHETHIC-FARM
+
+# Economic & biological model
+git checkout ECONOMIC-AND-BIOLOGICAL-MODEL
+
+# Chatbot interface
+git checkout CHAT-BOT-FRUIT
+
 
 ### 4.1 Cloning
 
